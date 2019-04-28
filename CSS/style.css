@@ -25,3 +25,13 @@ p.vert
     border:1px solid green
 
 }
+a{color:red;text-decoration: none;
+
+}/*  TEXT-DECORATION:   POUR supprimer la bar du lien     */
+a:hover{
+    color:green;text-decoration:underline;
+}/*    :HOVER:   pseudo élèment:changement de désign apres chaque action   */
+a:visited
+{
+    color:grey;
+}/*   VISITED:       */
